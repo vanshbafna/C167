@@ -1,2 +1,1 @@
-# C167
-C167
+# PRO-C167-Boilerplate
